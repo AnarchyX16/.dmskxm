@@ -1,7 +1,7 @@
 # ✨ Hi, I am Anarchy
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=SeonerVorteX&color=blue"/>
+    <img src="https://komarev.com/ghpvc/?username=' ✯ Anarchy&color=blue"/>
 </div>  
 
 Hi there, i'm Kahraman. I usually code and develop new projects (games, websites, discord bots and etc.), listening to music, play the piano and read novels. I started software development a year and a half ago with learning JavaScript. Now, i'm a Python, JavaScript/NodeJS and TypeScript developer and i continue with learning C++, Web Development and Cyber Security
@@ -36,6 +36,6 @@ Hi there, i'm Kahraman. I usually code and develop new projects (games, websites
 
 <div align="center">
     <a href="https://discord.com/users/825812253331816458" target="_blank"><img src="https://img.shields.io/badge/-Anarchy-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://github.com/SeonerVorteX" target="_blank"><img src="https://img.shields.io/badge/-VorteX-black?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/AnarchyX16" target="_blank"><img src="https://img.shields.io/badge/-AnarchyX16-black?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://discord.gg/xSAPRdQjyN" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
