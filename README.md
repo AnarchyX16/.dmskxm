@@ -37,5 +37,5 @@ Hi there, i'm Kahraman. I usually code and develop new projects (games, websites
 <div align="center">
     <a href="https://discord.com/users/825812253331816458" target="_blank"><img src="https://img.shields.io/badge/-Anarchy-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://github.com/AnarchyX16" target="_blank"><img src="https://img.shields.io/badge/-AnarchyX16-black?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://discord.gg/xSAPRdQjyN" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://discord.gg/marmara" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
